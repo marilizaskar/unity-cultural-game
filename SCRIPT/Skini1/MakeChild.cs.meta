@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a14c05d9493757b4e8cf08c6157083f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wood: {instanceID: 0}
+  - gkioumi4: {fileID: 919132149155446097, guid: 55d7383575badf24eba4a25f6eb6917c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
